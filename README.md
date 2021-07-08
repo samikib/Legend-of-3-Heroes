@@ -1,6 +1,6 @@
 # CS 100 Programming Project
 
-Project Name: Legend of the Four Heroes
+Project Name: Legend of the Three Heroes
 
 Group Members: Karina Lee (klee220@ucr.edu), Samiha Kibria (skibr001@ucr.edu), Michael Risher (mrish001@ucr.edu)
 
